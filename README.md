@@ -1,0 +1,1 @@
+# waterlock-sequelize-local-auth
