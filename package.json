@@ -23,7 +23,7 @@
     "coveralls": "*",
     "istanbul": "*",
     "jshint": "*",
-    "sequelize": "^4.28.0"
+    "sequelize": "^5.0.0-beta.12"
   },
   "dependencies": {
     "bcrypt": "~0.8.5",
